@@ -1,0 +1,28 @@
+#Corey Rosado
+#COP2002.0M1
+#09/08/2023
+#Project 2
+#Writing Python Program and Testing Using GitHub Classroom
+name="Corey Rosado"
+major="Computer Information Systems"
+
+print("My name is "+name+". My major is "+major+".\n" "I'm most interested in this class because I want to learn as many programming languages as I can")
+
+numb1 = 49
+numb2 = 31
+
+#calculations
+sum_result = numb1 + numb2
+difference_result = numb1 - numb2
+product_result = numb1 * numb2
+division_result = numb1 / numb2
+remainder_result = numb1 % numb2
+
+#actual text that will show
+print(f"{numb1} + {numb2} = {sum_result}")
+print(f"{numb1} - {numb2} = {difference_result}")
+print(f"{numb1} * {numb2} = {product_result}")
+print(f"{numb1} / {numb2} = {division_result}")
+print(f"{numb1} % {numb2} = {remainder_result}")
+
+print("This is the end of the program!")
